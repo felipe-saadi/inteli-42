@@ -33,10 +33,10 @@ __meta__ = {
 }
 
 [node name="Group_Authors" type="Label" parent="."]
-margin_left = 317.0
-margin_top = 516.0
-margin_right = 683.0
-margin_bottom = 585.0
+margin_left = 159.0
+margin_top = 524.0
+margin_right = 851.0
+margin_bottom = 593.0
 align = 1
 valign = 1
 __meta__ = {
