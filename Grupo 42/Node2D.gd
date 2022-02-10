@@ -15,7 +15,7 @@ func _ready():
 func _on_Button_pressed():
 	if(show_authors == false):
 		show_authors = true
-		$Group_Authors.text = "Felipe Saadi, Kathlyn Diwan, Giovana Thomé, Pedro Silva"
+		$Group_Authors.text = "Felipe Saadi, Kathlyn Diwan, Giovana Thomé, Pedro Silva, Alysson Cordeiro"
 		$Button.text = "Esconder Autores"
 	else:
 		$Button.text = "Mostrar Autores"
